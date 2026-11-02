@@ -7,6 +7,7 @@ ComicViewの公開リリースノート（本文のみ）
 
 GitHubアカウントなしで読めます。公開前の準備中の内容も含みます。
 
+- [v2.2.0](release_notes/v2.2.0.md)
 - [v2.1.9](release_notes/v2.1.9.md)
 - [v2.1.8](release_notes/v2.1.8.md)
 - [v2.1.7](release_notes/v2.1.7.md)
